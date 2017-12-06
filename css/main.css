@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+background-color: #f0eee8;
+padding: .5em;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: #dcd4cd;
+  margin: 0;
+  border: 3px solid #9a816d;
+  border-radius: .75rem 1rem;
+}
